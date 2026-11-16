@@ -32,13 +32,7 @@ Salida en `outputs/`: `alertas.csv` e `informe.md`.
 | Retraso mediano | 0 días |
 | Error medio de caudal | 0.83 L/h |
 
-> Resultados sobre datos sintéticos; la validación con datos reales (piloto) está en la hoja de ruta.
-
-## Hoja de ruta
-- [ ] Piloto con lecturas reales (ayuntamiento / comunidad de regantes / hotel)
-- [ ] Validación con BattLeDIM
-- [ ] Panel web (Streamlit) y alertas por email/Telegram
-- [ ] Corrección por estacionalidad y consumo nocturno legítimo (riego, piscinas)
+> Resultados sobre datos sintéticos.
 
 ## Licencia
 MIT
